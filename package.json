@@ -1,0 +1,21 @@
+{
+  "name": "fullstackopenpart4",
+  "version": "1.0.0",
+  "description": "Full stack open part 4 exercises",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alec",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.46.0",
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "mongoose": "^7.4.1"
+  }
+}
